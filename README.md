@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋What's Up? I am a Backend Developer focused on building scalable systems with REST APIs, GraphQL, and cloud-native architectures. Skilled in AWS S3 integration, backend engineering, and developing Agentic AI applications that automate workflows and enhance user experiences. Passionate about designing efficient APIs, optimizing performance, and building real-world AI-powered products.
+</h1>
 
 ###
 
